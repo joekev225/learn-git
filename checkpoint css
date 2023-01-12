@@ -1,0 +1,166 @@
+  
+nav{ font-weight: bold; /*peut etre numerique*/
+  font-style: italique;
+  background-color: hsla(0, 0%, 0%, 0.556);
+  padding: 10em;/*taille de fond*/
+  color: aliceblue;
+  border: 5px ridge greenyellow ;
+  font-family:Arial, Helvetica, sans-serif ;
+  text-decoration:none
+  
+  
+   }
+
+  
+
+
+/*padding-left: 50px
+padding-right: 50px
+padding-bottom: 50px
+padding-top: 50px* permet de positionner la box
+
+
+
+
+
+
+
+
+
+/* body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #eee;
+    border-bottom: 1px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  header img {
+    height: 40px;
+    width: auto;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  header form {
+    display: flex;
+    align-items: center;
+  }
+  
+  header input[type="text"] {
+    border: none;
+    border-radius: 4px 0 0 4px;
+    padding: 8px 12px;
+    font-size: 16px;
+    width: 200px;
+  }
+  
+  header input[type="submit"] {
+    border: none;
+    border-radius: 0 4px 4px 0;
+    background-color: #333;
+    color: #fff;
+    font-size: 16px;
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+  nav {
+    display: flex;
+    align-items: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav li {
+    margin-right: 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+  }
+  
+  nav a:hover, nav a.active {
+    color: #999;
+  }
+  
+  nav ul ul {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    min-width: 100px;
+    z-index: 1;
+  }
+  
+  nav ul ul li {
+    display: block;
+  }
+  
+  nav ul li:hover ul {
+    display: block;
+  }
+  
+  main {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h4 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  article p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  section h3 {
+    margin: 0;
+    font-size: 20px;
+  }
+  
+  section ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  section li {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  div iframe {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background-color: #eee;
+    border-top: 1
+   */
