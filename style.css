@@ -1,0 +1,24 @@
+
+body{font-family: 'Roboto', Arial, sans-serif;}
+
+nav h1{color: blue;
+    display: inline-block;
+}
+
+.entete {width: 100px;
+    height: 100px;
+    display: inline-block;
+
+}
+
+img {height: 130;
+    width: 130;
+}
+
+header {
+    background-color: #f5f5f5;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
